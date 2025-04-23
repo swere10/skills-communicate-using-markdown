@@ -7,3 +7,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ###### Changes made include using of markdwon, editing index file, use of headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
